@@ -1,4 +1,4 @@
-# Amazon E-Commerce Data Analysis
+# Amazon E-Commerce Product Analysis
 
 ## Project Structure
 
@@ -8,17 +8,8 @@ Python script used to clean, analyze, and aggregate the dataset using pandas.
 queries.sql  
 SQL queries used to replicate key analysis using SQL.
 
-amazon_ecommerce.csv  
-Dataset containing product information, ratings, pricing, and seller data.
-
 average_price_by_category.png  
 Visualization comparing average prices across product categories.
-
-## DataSet Access
-
-The raw dataset is not included in this repository as it exceeds GitHub file size limits.
-
-Dataset source: https://www.kaggle.com/datasets/sharmajicoder/amazon-e-commerce
 
 ## Project Overview
 
@@ -38,6 +29,14 @@ Dataset source: Kaggle Amazon E-Commerce Dataset
 - VS Code
 
 ---
+
+## DataSet Access
+
+The raw dataset is not included in this repository as it exceeds GitHub file size limits.
+
+The dataset can be downloaded from Kaggle:
+
+https://www.kaggle.com/datasets/sharmajicoder/amazon-e-commerce
 
 ## Dataset
 
@@ -85,7 +84,6 @@ Identified the top 5 products in each category based on:
 - Highest number of reviews (used as a tie breaker)
 
 This helps identify products that receive the strongest customer feedback.
-`
 ---
 
 ## Visualization
