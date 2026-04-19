@@ -31,7 +31,7 @@ Build the image:
 docker build -t amazon-analysis .
 
 Run the container:
-docker run -v $(pwd):/app amazon-analysis
+docker run --rm -v $(pwd):/app amazon-analysis
 
 ## Tools Used
 
