@@ -13,7 +13,7 @@ Visualization comparing average prices across product categories.
 
 ## Project Overview
 
-This project analyzes a large Amazon e-commerce dataset to understand product distribution, pricing trends, and top-performing products across different categories. The analysis was performed using Python (Pandas) and SQL.
+This project analyzes a large Amazon e-commerce dataset to understand product distribution, pricing trends, and top-rated products by category based on average rating and review volume. The analysis was performed using Python (Pandas) and SQL.
 
 The goal of the project is to demonstrate basic data analysis techniques such as grouping, aggregation, sorting, and identifying insights from a large dataset.
 
