@@ -14,6 +14,12 @@ Dataset containing product information, ratings, pricing, and seller data.
 average_price_by_category.png  
 Visualization comparing average prices across product categories.
 
+## DataSet Access
+
+The raw dataset is not included in this repository as it exceeds GitHub file size limits.
+
+Dataset source: https://www.kaggle.com/datasets/sharmajicoder/amazon-e-commerce
+
 ## Project Overview
 
 This project analyzes a large Amazon e-commerce dataset to understand product distribution, pricing trends, and top-performing products across different categories. The analysis was performed using Python (Pandas) and SQL.
