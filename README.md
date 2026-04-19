@@ -21,6 +21,18 @@ Dataset source: Kaggle Amazon E-Commerce Dataset
 
 ---
 
+## Running with Docker
+
+The dataset is not included in the repository due to GitHub file size limits.
+
+Place the dataset from the link below in the project folder before running the container.
+
+Build the image:
+docker build -t amazon-analysis .
+
+Run the container:
+docker run -v $(pwd):/app amazon-analysis
+
 ## Tools Used
 
 - Python
